@@ -1,7 +1,0 @@
-[
-  "version/tests/test_version.py::test_superior",
-  "version/tests/test_version.py::test_inferior",
-  "version/tests/test_version.py::test_equal",
-  "version/tests/test_version.py::test_inferior_or_equal",
-  "version/tests/test_version.py::test_superior_or_equal"
-]
